@@ -1,0 +1,142 @@
+{
+    "info": {
+        "year": 2021,
+        "date_created": "2021-11-10T13:37:43Z",
+        "version": "1.0",
+        "description": "rubber ducks rubber duckies",
+        "contributor": "",
+        "url": "https://app.hasty.ai/projects/172efc8c-1e08-41df-aa84-9059b3d71501"
+    },
+    "licenses": [],
+    "categories": [
+        {
+            "id": 1,
+            "name": "duck",
+            "supercategory": "object"
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "width": 853,
+            "height": 640,
+            "file_name": "robertducky1.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2021-11-10T13:38:01Z"
+        },
+        {
+            "id": 2,
+            "width": 853,
+            "height": 640,
+            "file_name": "robertducky2.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2021-11-10T13:38:01Z"
+        },
+        {
+            "id": 3,
+            "width": 853,
+            "height": 640,
+            "file_name": "robertducky3.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2021-11-10T13:38:02Z"
+        },
+        {
+            "id": 4,
+            "width": 853,
+            "height": 640,
+            "file_name": "robertducky4.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2021-11-10T13:38:01Z"
+        },
+        {
+            "id": 5,
+            "width": 853,
+            "height": 640,
+            "file_name": "robertducky5.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2021-11-10T13:38:01Z"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 3,
+            "category_id": 1,
+            "segmentation": null,
+            "area": 12412,
+            "bbox": [
+                351,
+                291,
+                116,
+                107
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 2,
+            "category_id": 1,
+            "segmentation": null,
+            "area": 13516,
+            "bbox": [
+                498,
+                345,
+                109,
+                124
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 4,
+            "category_id": 1,
+            "segmentation": null,
+            "area": 41391,
+            "bbox": [
+                263,
+                195,
+                189,
+                219
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 1,
+            "category_id": 1,
+            "segmentation": null,
+            "area": 14112,
+            "bbox": [
+                500,
+                278,
+                112,
+                126
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 5,
+            "category_id": 1,
+            "segmentation": null,
+            "area": 23250,
+            "bbox": [
+                377,
+                163,
+                155,
+                150
+            ],
+            "iscrowd": 0
+        }
+    ]
+}
